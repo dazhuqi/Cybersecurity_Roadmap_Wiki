@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="A GitHub Pages wiki for tracking cybersecurity roadmap learning notes."
+    >
+    <title>Cybersecurity Roadmap Wiki</title>
+    <link rel="stylesheet" href="assets/wiki.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js"></script>
+    <script defer src="assets/wiki.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#wiki-content">Skip to content</a>
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar" aria-label="Wiki navigation">
+        <div class="sidebar-header">
+          <a class="brand" href="#/wiki/Home.md">Cybersecurity Roadmap Wiki</a>
+          <button class="icon-button mobile-only" id="close-sidebar" type="button" aria-label="Close navigation">
+            x
+          </button>
+        </div>
+        <div class="sidebar-tools">
+          <label for="search-input" data-i18n="searchLabel">Search pages</label>
+          <input
+            id="search-input"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search notes"
+            data-i18n-placeholder="searchPlaceholder"
+          >
+        </div>
+        <nav class="wiki-nav" id="wiki-nav"></nav>
+      </aside>
+
+      <div class="main-shell">
+        <header class="topbar">
+          <button class="icon-button mobile-only" id="open-sidebar" type="button" aria-label="Open navigation">
+            Menu
+          </button>
+          <div class="page-meta">
+            <div class="breadcrumb" id="breadcrumb">Home</div>
+            <div class="source-path" id="source-path">wiki/Home.md</div>
+          </div>
+          <div class="topbar-actions">
+            <button class="language-toggle" id="language-toggle" type="button" aria-label="Switch language">
+              中文
+            </button>
+            <a
+              class="repo-link"
+              href="https://github.com/dazhuqi/Cybersecurity_Roadmap_Wiki"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>
+          </div>
+        </header>
+
+        <main class="content-wrap">
+          <div class="notice" id="notice" hidden></div>
+          <article class="markdown-body" id="wiki-content" tabindex="-1">
+            <h1>Cybersecurity Roadmap Wiki</h1>
+            <p>Loading wiki page...</p>
+          </article>
+        </main>
+      </div>
+    </div>
+  </body>
+</html>
