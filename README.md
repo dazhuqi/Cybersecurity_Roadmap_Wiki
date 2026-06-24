@@ -2,6 +2,8 @@
 
 This repository is a personal learning wiki for cybersecurity. Its structure is based on the [roadmap.sh Cyber Security Roadmap](https://roadmap.sh/cyber-security), but the goal is not to memorize the whole roadmap at once. The goal is to turn each topic into reusable notes, practice records, review questions, and progress tracking.
 
+The repository also includes a zero-build GitHub Pages web wiki. The web version keeps the Markdown notes as the source of truth, then renders them in a browser with a left navigation sidebar and a main reading area.
+
 ## Learning Path
 
 The wiki follows the main roadmap areas:
@@ -19,9 +21,14 @@ It also includes sections for labs, CTFs, certifications, resources, templates, 
 
 ```text
 .
+|-- .nojekyll
 |-- README.md
 |-- CONTRIBUTING.md
-`-- wiki/
+|-- index.html
+|-- assets/
+|   |-- wiki.css
+|   `-- wiki.js
+|-- wiki/
     |-- Home.md
     |-- _Sidebar.md
     |-- _Footer.md
@@ -37,11 +44,48 @@ It also includes sections for labs, CTFs, certifications, resources, templates, 
     |-- 09-resources/
     |-- assets/
     `-- templates/
+`-- wiki-zh/
+    `-- README.md
 ```
+
+## GitHub Pages Web Wiki
+
+The web wiki is designed to work directly from GitHub Pages without a build step.
+
+To publish it:
+
+1. Open the repository settings on GitHub.
+2. Go to `Pages`.
+3. Set the source to `Deploy from a branch`.
+4. Select the `main` branch and the `/root` folder.
+5. Save the settings and wait for GitHub Pages to finish publishing.
+
+The project page should be available at:
+
+```text
+https://dazhuqi.github.io/Cybersecurity_Roadmap_Wiki/
+```
+
+The site entry point is `index.html`. It loads Markdown files from `wiki/` and renders them in the browser. Because browsers usually block local `fetch()` calls from `file://`, use GitHub Pages or a local web server when previewing the site.
+
+## Language Switching
+
+The web wiki supports English and Chinese UI labels.
+
+English Markdown notes live in `wiki/`. Optional Chinese Markdown notes should mirror the same path under `wiki-zh/`.
+
+Example:
+
+| English page | Chinese page |
+| --- | --- |
+| `wiki/Home.md` | `wiki-zh/Home.md` |
+| `wiki/02-operating-systems/linux.md` | `wiki-zh/02-operating-systems/linux.md` |
+
+When Chinese mode is selected, the site tries to load the matching file from `wiki-zh/`. If that file does not exist yet, it falls back to the English file in `wiki/`.
 
 ## How to Use This Wiki
 
-1. Start from `wiki/Home.md` and confirm the current learning stage.
+1. Open the GitHub Pages site or start from `wiki/Home.md` in the repository.
 2. For each topic, copy the structure from `wiki/templates/topic-template.md`.
 3. For each lab, CTF, or hands-on exercise, use `wiki/templates/lab-writeup-template.md`.
 4. Update `wiki/00-meta/progress-tracker.md` and `wiki/00-meta/weekly-review.md` weekly.
