@@ -58,6 +58,20 @@ Bad tracking is just a list of resources I opened. Opening a page is not the sam
 - Link notes together when topics overlap.
 - Keep templates practical and easy to fill.
 
+## Maintenance Boundaries
+
+This folder should stay boring in a good way. It is here to make studying easier, not to become another project.
+
+If I spend more time reorganizing trackers than learning, I should stop and choose one concrete task:
+
+- rewrite one confusing note
+- finish one small lab
+- review one glossary section
+- close one unused resource
+- explain one concept out loud
+
+The best version of this folder is not fancy. It is the version I actually update.
+
 ## Related Pages
 
 - [Home](../Home.md)
