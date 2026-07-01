@@ -54,6 +54,14 @@ If applicable, how did access change?
 
 What should be cleaned up, reverted, or remembered?
 
+## Mini Timeline
+
+Use this when the lab took a long time or I got stuck.
+
+| Time | Action | Result |
+| --- | --- | --- |
+| To be filled | To be filled | To be filled |
+
 ## Evidence
 
 Paste only sanitized and useful evidence.
@@ -61,6 +69,17 @@ Paste only sanitized and useful evidence.
 ```text
 Sanitized command output or observation here.
 ```
+
+## Finding Format
+
+Use this format if the lab has something close to a real security finding.
+
+| Field | Notes |
+| --- | --- |
+| Finding | What is the issue? |
+| Impact | Why does it matter? |
+| Evidence | What proves it? |
+| Remediation | How could it be fixed or reduced? |
 
 ## Mistakes and Dead Ends
 
