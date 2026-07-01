@@ -28,6 +28,19 @@
 
 按照当前目标选择认证：入门 IT、网络基础、蓝队、防御、渗透测试、治理、合规，或者高级安全管理。
 
+## 我应该怎么选择
+
+选择考试前，我应该回答：
+
+- 它支持什么岗位或技能方向？
+- 我现在需要证书，还是只需要知识？
+- 我能不能负担考试和学习材料，而不是硬冲？
+- 我有没有足够 hands-on practice，让证书有意义？
+- 我是否读过官方 objectives 或 exam guide？
+- 如果我决定不考，会有什么影响？
+
+最安全的默认做法是先学习官方 objectives，然后再决定是否值得付费考试。
+
 ## 我的粗略顺序
 
 这不是硬规则，但对我来说比较合理：
@@ -37,6 +50,26 @@
 3. 用 Security+ 或 GSEC 风格学习安全基础。
 4. 之后再选择方向：蓝队、渗透测试、云、审计、管理。
 5. 昂贵或高级考试要等有足够实操后再计划。
+
+## 决策矩阵
+
+| 目标 | 更适合的早期选择 | 后期选择 |
+| --- | --- | --- |
+| IT support foundation | A+ style study | Linux+, Network+ |
+| Networking | Network+ or CCNA-style study | CCNA deeper practice |
+| First security vocabulary | Security+ style study | GSEC if budget and focus fit |
+| Penetration testing | Labs first, web and Linux basics | OSCP, GPEN, GWAPT, CREST paths |
+| Governance or audit | Security and risk basics | CISA, CISM, CISSP later |
+| Senior security leadership | Broad experience first | CISSP, CISM |
+
+## 不要报名，除非
+
+- [ ] 我读过官方考试页面。
+- [ ] 我检查过当前 objectives、renewal rules 和 exam provider details。
+- [ ] 我能解释为什么这个 cert 支持当前目标。
+- [ ] 我有包含 practice 的学习计划，而不只是视频。
+- [ ] 我知道成本和 retake policy。
+- [ ] 我有时间学习，不会抛弃路线图基础。
 
 ## 追踪模板
 
