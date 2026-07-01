@@ -43,6 +43,22 @@ It is especially relevant if I want a strong blue-team or general security basel
 - Map common attacks to defensive controls.
 - Write a mini incident handling workflow.
 
+## Beginner Things I Need to Be Careful About
+
+- GSEC is broad, so I should build examples instead of only memorizing definitions.
+- Defensive security is not just buying tools. It is understanding assets, logs, controls, and response.
+- Cryptography terms can sound similar. I need to explain them with small examples.
+- Windows and Linux security basics are both important.
+- If I cannot read logs yet, I should slow down and practice that before jumping ahead.
+
+## Small Checkpoints
+
+- I can explain defense-in-depth with a home or small office example.
+- I can harden a VM and explain each change.
+- I can identify failed logins, new users, service changes, and suspicious process activity in basic logs.
+- I can map one attack technique to prevention, detection, and response controls.
+- I can write a simple incident handling checklist.
+
 ## Decision Notes
 
 | Question | My Answer |
