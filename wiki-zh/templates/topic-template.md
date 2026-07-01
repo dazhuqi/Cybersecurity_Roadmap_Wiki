@@ -53,11 +53,26 @@
 - [ ] 记录 commands、inputs、outputs 和 conclusions。
 - [ ] 不看页面解释这个概念。
 
+## 标记完成前
+
+- [ ] 我能用两分钟解释这个主题。
+- [ ] 我至少有一个具体例子。
+- [ ] 我知道一个常见错误或误解。
+- [ ] 我把这个主题链接到了另一个 roadmap 页面。
+- [ ] 我知道之后要复习什么。
+
 ## 复习问题
 
 - 
 - 
 - 
+
+## 需要添加的链接
+
+- Official documentation:
+- Helpful beginner explanation:
+- Practice or lab:
+- Related local note:
 
 ## 参考资料
 

@@ -54,6 +54,14 @@
 
 什么需要清理、回滚或记住？
 
+## Mini Timeline
+
+如果 lab 花了很久，或者中间卡住了，就用这个表。
+
+| Time | Action | Result |
+| --- | --- | --- |
+| To be filled | To be filled | To be filled |
+
 ## 证据
 
 只粘贴清理过且有用的证据。
@@ -61,6 +69,17 @@
 ```text
 Sanitized command output or observation here.
 ```
+
+## Finding Format
+
+如果 lab 里有接近真实安全 finding 的内容，可以用这个格式。
+
+| Field | Notes |
+| --- | --- |
+| Finding | 问题是什么？ |
+| Impact | 为什么重要？ |
+| Evidence | 什么能证明它？ |
+| Remediation | 怎么修复或降低风险？ |
 
 ## 错误和 Dead Ends
 

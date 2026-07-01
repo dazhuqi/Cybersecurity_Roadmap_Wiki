@@ -41,6 +41,18 @@
 | Change | To be filled |
 | Try | To be filled |
 
+## Scorecard
+
+这不是用来批评自己的，是用来看规律的。
+
+| Question | Yes / No / Notes |
+| --- | --- |
+| Did I practice hands-on? | To be filled |
+| Did I write or update notes? | To be filled |
+| Did I review older material? | To be filled |
+| Did I avoid a blocker? | To be filled |
+| Did I keep the next step small? | To be filled |
+
 ## Next Week
 
 - [ ] One note:
