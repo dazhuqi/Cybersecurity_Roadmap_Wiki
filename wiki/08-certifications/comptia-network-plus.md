@@ -49,6 +49,22 @@ If I cannot explain IP addresses, ports, DNS, routing, and basic troubleshooting
 - Capture one website visit in Wireshark and identify DNS plus TCP/TLS traffic.
 - Build a small VM network and test NAT vs host-only networking.
 
+## Beginner Things I Need to Be Careful About
+
+- IP addresses identify hosts or networks. MAC addresses are local-link identifiers. I should not treat them as the same thing.
+- DNS turns names into addresses, but it is not the thing that actually carries the traffic.
+- DHCP gives configuration to a client. It is different from DNS even though both can appear during "getting online."
+- A switch mainly works inside a LAN. A router connects networks. Firewalls make policy decisions about traffic.
+- Subnetting is annoying at first, but it is just a way to split address space and decide what is local.
+
+## Small Checkpoints
+
+- I can explain the OSI model without sounding like I only memorized seven words.
+- I can calculate a few common CIDR ranges without panicking.
+- I can use Wireshark to identify DNS, TCP handshake, and HTTP or TLS traffic in a lab.
+- I can draw my home network and label modem, router, switch, access point, and clients.
+- I can troubleshoot "no internet" by checking link, IP address, gateway, DNS, and routing in order.
+
 ## Decision Notes
 
 | Question | My Answer |
