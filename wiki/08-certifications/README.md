@@ -28,6 +28,19 @@ Certifications are not the same as skill, but they can give structure. I want to
 
 Choose certifications based on the current goal: entry-level IT, networking foundations, blue team, defense, penetration testing, governance, compliance, or senior security management.
 
+## How I Should Choose
+
+Before choosing an exam, I should answer:
+
+- What role or skill path does this support?
+- Do I need the certificate now, or only the knowledge?
+- Can I afford the exam and study material without rushing?
+- Do I have enough hands-on practice to make it meaningful?
+- Are there official objectives or exam guides I have read?
+- What happens if I decide not to take the exam?
+
+The safest default is to study the objectives first, then decide later whether paying for the exam makes sense.
+
 ## My Rough Order
 
 This is not a fixed rule, but a reasonable starting order for me:
@@ -37,6 +50,26 @@ This is not a fixed rule, but a reasonable starting order for me:
 3. Learn security foundations through Security+ or GSEC-style study.
 4. Choose a direction: blue team, penetration testing, cloud, audit, or management.
 5. Only plan expensive or advanced exams after enough hands-on practice.
+
+## Decision Matrix
+
+| Goal | Better Early Options | Later Options |
+| --- | --- | --- |
+| IT support foundation | A+ style study | Linux+, Network+ |
+| Networking | Network+ or CCNA-style study | CCNA deeper practice |
+| First security vocabulary | Security+ style study | GSEC if budget and focus fit |
+| Penetration testing | Labs first, web and Linux basics | OSCP, GPEN, GWAPT, CREST paths |
+| Governance or audit | Security and risk basics | CISA, CISM, CISSP later |
+| Senior security leadership | Broad experience first | CISSP, CISM |
+
+## Do Not Register Until
+
+- [ ] I have read the official exam page.
+- [ ] I have checked current objectives, renewal rules, and exam provider details.
+- [ ] I can explain why this cert supports my current goal.
+- [ ] I have a study plan with practice, not only videos.
+- [ ] I know the cost and retake policy.
+- [ ] I have time to study without abandoning the roadmap basics.
 
 ## Tracking Template
 
