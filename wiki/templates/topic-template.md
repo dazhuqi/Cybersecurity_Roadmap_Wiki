@@ -7,17 +7,29 @@
 | Last Reviewed | To be filled |
 | Confidence | 1/5 |
 
+## Why This Topic Matters
+
+Write why this topic matters in normal language. Avoid starting with a textbook definition only.
+
+Beginner version:
+
+> To be filled.
+
 ## Learning Goals
 
+- 
+- 
 - 
 
 ## Core Concepts
 
-- 
+| Concept | Plain-English Meaning | Example |
+| --- | --- | --- |
+| To be filled | To be filled | To be filled |
 
 ## Notes
 
-To be filled.
+Write the main explanation here. It should be detailed enough that future me can relearn the topic without opening ten tabs.
 
 ## Commands or Examples
 
@@ -25,17 +37,26 @@ To be filled.
 # command example
 ```
 
-## Practice
-
-- [ ] Find a minimal lab to validate the concept
-- [ ] Record commands, inputs, outputs, and conclusions
-
-## Common Pitfalls
+What this command or example shows:
 
 - 
 
+## Common Mistakes
+
+- 
+- 
+- 
+
+## Practice
+
+- [ ] Find a minimal lab to validate the concept.
+- [ ] Record commands, inputs, outputs, and conclusions.
+- [ ] Explain the concept without reading the page.
+
 ## Review Questions
 
+- 
+- 
 - 
 
 ## References
