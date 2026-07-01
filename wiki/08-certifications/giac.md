@@ -41,6 +41,22 @@ This page helps me compare:
 | Cloud security | Cloud controls and architecture |
 | Management | Leadership, risk, and program work |
 
+## Beginner Things I Need to Be Careful About
+
+- GIAC is a certification ecosystem, not one exam.
+- I should choose a GIAC path only after I know the skill area I want.
+- Cost and training access matter a lot, so this should not be an impulse decision.
+- GIAC names can look similar. I need to read the official page for each exact certification.
+- A GIAC goal should connect to labs, notes, and projects, not just a badge name.
+
+## Small Checkpoints
+
+- I can explain the difference between GSEC, GPEN, and GWAPT at a high level.
+- I can list which GIAC areas fit blue team, red team, cloud, or forensics.
+- I can compare one GIAC option with a cheaper study path for the same knowledge.
+- I can decide whether I want the exam, the course knowledge, or just the topic outline.
+- I can make a budget-aware plan before adding GIAC to my roadmap.
+
 ## Decision Notes
 
 | Question | My Answer |
