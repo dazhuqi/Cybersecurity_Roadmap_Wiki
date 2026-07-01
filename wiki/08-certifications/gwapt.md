@@ -51,6 +51,22 @@ This is not just "run a scanner." I need to understand requests, responses, stat
 - Write a short note for XSS, SQL injection, CSRF, and SSRF.
 - Turn one web lab into a finding with impact and remediation.
 
+## Beginner Things I Need to Be Careful About
+
+- Web testing starts with understanding how the application works, not clicking random payloads.
+- HTTP methods, headers, cookies, sessions, and status codes are basic language for this path.
+- Authentication and authorization bugs are different. I need to test both.
+- A finding should include reproduction steps that another person can follow.
+- Web labs are safe places to practice. Real websites are not targets unless I have permission.
+
+## Small Checkpoints
+
+- I can proxy traffic through Burp Suite and explain each request.
+- I can identify where input enters the application and where output appears.
+- I can test a simple login flow, session cookie, and access control rule in a lab.
+- I can explain common OWASP-style vulnerabilities with one example each.
+- I can write remediation that is more useful than "sanitize input" by itself.
+
 ## Decision Notes
 
 | Question | My Answer |
