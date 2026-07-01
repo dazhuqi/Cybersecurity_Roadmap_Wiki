@@ -43,6 +43,22 @@ GSEC 风格学习把操作系统、网络、防御、密码学、访问控制、
 - 把常见攻击映射到防御控制。
 - 写一个小型 incident handling 流程。
 
+## 初学者容易混的点
+
+- GSEC 范围很广，所以我应该建立例子，而不是只背定义。
+- defensive security 不只是买工具，它还包括理解 assets、logs、controls 和 response。
+- cryptography 术语容易听起来很像，我需要用小例子解释它们。
+- Windows 和 Linux security basics 都重要。
+- 如果我还读不懂 log，就应该先慢下来练这个，而不是继续往前跳。
+
+## 小检查点
+
+- 我能用 home 或 small office 例子解释 defense-in-depth。
+- 我能 harden 一台 VM，并解释每个改动。
+- 我能在基础日志里识别 failed logins、new users、service changes 和 suspicious process activity。
+- 我能把一个 attack technique 对应到 prevention、detection 和 response controls。
+- 我能写一个简单 incident handling checklist。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

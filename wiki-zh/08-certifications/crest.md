@@ -48,6 +48,22 @@ CREST 风格认证路径连接到：
 - 写一个侦察、枚举、利用、报告的方法论清单。
 - 阅读专业报告结构样例。
 
+## 初学者容易混的点
+
+- CREST 在不同地区、雇主和具体 exam path 下可能含义不同。
+- 我不应该把 “CREST” 当成单一的新手证书，必须确认哪个 track 真的相关。
+- 专业安全评估不只是 exploitation，还包括 scoping、evidence、communication 和可重复质量。
+- report writing 是技能的一部分，不是“好玩的部分结束后随便写写”。
+- 花钱之前，我要把要求和自己真正关心的 job postings 对比。
+
+## 小检查点
+
+- 我能指出哪个 CREST pathway 和目标岗位匹配。
+- 我能解释 lab proof 和 client-ready evidence 的区别。
+- 我能写一个清楚 finding，包含 impact、evidence 和 remediation。
+- 我能比较 CREST、OSCP、GPEN、GWAPT，而不是默认某一个永远更好。
+- 我能列出选择这条路线前还缺哪些 practical skills。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

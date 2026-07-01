@@ -52,6 +52,22 @@ GPEN 风格学习连接到：
 - 练习把技术证明改写成修复建议。
 - 每篇实验笔记保留失败尝试部分。
 
+## 初学者容易混的点
+
+- GPEN 关注 penetration testing methodology，不只是拿到 shell。
+- 一次测试有 rules、scope、time limits、evidence 和 reporting，这些都重要。
+- enumeration 通常决定 exploitation 能不能成功，跳过它会造成假的进度感。
+- post-exploitation 必须留在 scope 内，并且要仔细记录。
+- 我应该能解释 risk 和 remediation，而不只是写出成功的命令。
+
+## 小检查点
+
+- 我能为 lab machines 建一个可重复的 enumeration checklist。
+- 我能解释我试了什么、什么失败了、学到了什么。
+- 我能在故意脆弱的环境里安全练习 privilege escalation。
+- 我能写出从 initial access 到 impact 的短 attack path。
+- 我能产出 defender 真正能用的报告。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

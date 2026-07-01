@@ -53,6 +53,22 @@ Security+ 风格学习连接到：
 - 对比 MFA、密码管理器和最小权限。
 - 把常见攻击映射到降低风险的控制措施。
 
+## 初学者容易混的点
+
+- Security+ 范围很广，所以一开始每个主题都觉得浅是正常的。
+- risk 不等于 vulnerability。vulnerability 是弱点，risk 还要看影响和发生可能性。
+- encryption、hashing、encoding 是不同东西，我需要给每个都准备例子。
+- authentication 是证明你是谁，authorization 是决定你能做什么。
+- control 只有在我能说明它降低了什么问题时才真正有意义。
+
+## 小检查点
+
+- 我能用自己的例子解释 CIA triad。
+- 我能比较 symmetric encryption、asymmetric encryption、hashing 和 digital signature。
+- 我能读一个简单 incident 场景，并列出第一步响应。
+- 我能把常见攻击对应到实际控制措施，而不是只背定义。
+- 我能写一小段话说明某个安全控制为什么对普通用户或业务有意义。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

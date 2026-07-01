@@ -48,6 +48,22 @@ CISA 风格知识帮助理解：
 - 写一个 mock audit finding，包含风险、证据和建议。
 - 高层次复习 NIST CSF 或 CIS Controls。
 
+## 初学者容易混的点
+
+- CISA 主要不是 hacking，它更关注 assurance、governance、controls 和 evidence。
+- audit finding 需要 criteria、condition、cause、effect、recommendation，不能只写“这个不好”。
+- control 可以存在于文档里，但实际执行仍然失败。
+- evidence quality 很重要。截图、日志、政策文档和访谈都有局限。
+- 审计的目标不是让某个团队难堪，而是理解 risk 并改进流程。
+
+## 小检查点
+
+- 我能解释 policy、standard、procedure、control 的区别。
+- 我能读一个简单 control requirement，并判断需要什么证据来证明它。
+- 我能用中立语气写一条 audit-style observation。
+- 我能把技术问题连接到 business risk，而不是夸大问题。
+- 我能解释 independence 和 documentation 为什么对审计重要。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

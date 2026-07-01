@@ -48,6 +48,22 @@ CISM 风格知识帮助解释：
 - 把一个安全控制映射到业务影响。
 - 区分 governance、management、operations。
 
+## 初学者容易混的点
+
+- CISM 偏管理，它关心 security 怎么和 business goals 对齐。
+- manager 不会亲手修所有技术问题，而是确保 ownership、priority、budget 和 process 清楚。
+- risk acceptance 不是无视风险，它应该被记录，并由合适的 owner 批准。
+- metrics 应该帮助做决定。只好看但不改变行动的图表很弱。
+- incident communication 也是安全的一部分，不是事后随便补的东西。
+
+## 小检查点
+
+- 我能用 people、process、technology、governance 来描述一个 security program。
+- 我能写一个简单 risk statement，包含 asset、threat、vulnerability、impact 和 owner。
+- 我能解释为什么安全优先级要和业务优先级连接。
+- 我能草拟一个基础 incident escalation flow。
+- 我能比较“做更多安全工作”和“做正确的安全工作”的区别。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

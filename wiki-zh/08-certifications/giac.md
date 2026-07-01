@@ -41,6 +41,22 @@ GIAC 认证可能很有价值，因为它们通常映射到比较明确的安全
 | 云安全 | 云控制和架构 |
 | 管理 | 领导力、风险和项目工作 |
 
+## 初学者容易混的点
+
+- GIAC 是一个 certification ecosystem，不是一张单独考试。
+- 我应该先知道自己想学哪个技能方向，再选择 GIAC path。
+- 成本和 training access 很重要，所以这不应该是冲动决定。
+- GIAC 名字看起来可能很像，我需要读每个具体 certification 的官方页面。
+- GIAC 目标应该和 labs、notes、projects 连接，而不只是一个 badge 名字。
+
+## 小检查点
+
+- 我能从大方向解释 GSEC、GPEN、GWAPT 的区别。
+- 我能列出哪些 GIAC 方向适合 blue team、red team、cloud 或 forensics。
+- 我能把一个 GIAC 选项和同知识方向的低成本学习路线做比较。
+- 我能判断自己想要 exam、course knowledge，还是只是 topic outline。
+- 我能先做预算友好的计划，再把 GIAC 放进路线图。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

@@ -51,6 +51,22 @@ CEH 风格学习连接到：
 - 把一个已完成实验写成包含发现和修复建议的小报告。
 - 在安全训练环境里复习基础 Web 漏洞。
 
+## 初学者容易混的点
+
+- “Ethical” 取决于授权，不取决于我的动机。没有明确 scope 就不要测试任何系统。
+- 工具输出本身不等于 finding。我需要验证、理解影响，并写出修复建议。
+- scanning、enumeration、exploitation、reporting 是不同阶段，混在一起会让笔记很乱。
+- 酷炫 exploit 没有可重复的方法重要。
+- social engineering 相关内容应该用于 awareness 和 defense，不是拿去烦真实的人。
+
+## 小检查点
+
+- 我能为一个实验评估写基础 scope statement。
+- 我能解释 passive reconnaissance 和 active reconnaissance 的区别。
+- 我能在安全 lab 里做扫描，并总结重要结果。
+- 我能把一个 vulnerability 写成短报告段落，包含证据和修复建议。
+- 我能清楚说出什么时候我没有授权继续做。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

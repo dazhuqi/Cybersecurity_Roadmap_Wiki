@@ -51,6 +51,22 @@ Web 应用是最常见攻击面之一。GWAPT 风格学习连接到：
 - 分别写 XSS、SQL injection、CSRF、SSRF 的短笔记。
 - 把一个 Web lab 写成包含影响和修复建议的 finding。
 
+## 初学者容易混的点
+
+- Web testing 要先理解 application 怎么工作，不是随机点 payload。
+- HTTP methods、headers、cookies、sessions、status codes 是这条路线的基础语言。
+- authentication 和 authorization bug 不一样，我需要分别测试。
+- finding 需要包含别人能复现的 reproduction steps。
+- Web lab 是安全练习场。真实网站不是目标，除非我有授权。
+
+## 小检查点
+
+- 我能通过 Burp Suite proxy 流量，并解释每个 request。
+- 我能识别 input 从哪里进入 application，output 在哪里出现。
+- 我能在 lab 里测试简单 login flow、session cookie 和 access control rule。
+- 我能用一个例子解释常见 OWASP-style vulnerabilities。
+- 我能写出比单纯“sanitize input”更有用的 remediation。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

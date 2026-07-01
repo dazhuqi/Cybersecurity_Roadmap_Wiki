@@ -49,6 +49,22 @@ CompTIA Network+ 是厂商中立的网络认证。网络在安全里到处都出
 - 抓一次访问网站的流量，识别 DNS 和 TCP/TLS。
 - 搭一个小 VM 网络，测试 NAT 和 host-only。
 
+## 初学者容易混的点
+
+- IP address 用来标识主机或网络，MAC address 更偏本地链路，不要把它们当成同一种东西。
+- DNS 是把名字解析成地址，不是负责真正传输流量的东西。
+- DHCP 给客户端分配配置。它和 DNS 不一样，虽然它们经常一起出现在“为什么上不了网”的问题里。
+- switch 主要在 LAN 里工作，router 连接不同网络，firewall 根据规则决定流量能不能过。
+- subnetting 一开始很烦，但本质上是在拆分地址空间，并判断什么算本地网络。
+
+## 小检查点
+
+- 我能解释 OSI model，而不只是背七个词。
+- 我能算几个常见 CIDR 范围，不至于一看到就慌。
+- 我能用 Wireshark 在实验流量里找到 DNS、TCP handshake、HTTP 或 TLS。
+- 我能画出家里网络，并标出 modem、router、switch、access point 和 clients。
+- 我能按 link、IP address、gateway、DNS、routing 的顺序排查“没网”。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

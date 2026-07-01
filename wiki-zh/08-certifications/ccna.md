@@ -53,6 +53,22 @@ CCNA 风格学习支持：
 - 抓流量并把流量和拓扑对应起来。
 - 不背词地解释 router 和 switch 的区别。
 
+## 初学者容易混的点
+
+- CCNA 不只是“Cisco 版 Network+”，它更要求配置和排错思维。
+- 我应该理解为什么要用某条命令，而不是只复制一份能跑的 config。
+- VLAN 用来分隔 broadcast domain，trunk 可以承载多个 VLAN，access port 通常只属于一个 VLAN。
+- routing table 回答下一跳去哪，但不代表回程路径一定没问题。
+- troubleshooting 应该从症状和证据开始，而不是一出错就重建整个 lab。
+
+## 小检查点
+
+- 我能划分常见 private ranges，并解释结果。
+- 我能在模拟器里配置基础 switch access port、trunk port 和 VLAN。
+- 我能设置 static routing，并用 show commands 验证。
+- 我能解释同一 LAN 里两台主机通信时 ARP 在做什么。
+- 我能写清楚一个小拓扑，让另一个新手也能照着重建。
+
 ## 决策记录
 
 | 问题 | 我的答案 |

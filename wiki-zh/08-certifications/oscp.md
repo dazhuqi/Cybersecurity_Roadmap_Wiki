@@ -53,6 +53,22 @@ OSCP 风格准备连接很多路线图部分：
 - 练习把 proof steps 写到别人能复现。
 - 给 rabbit hole 限时，并记录为什么放弃。
 
+## 初学者容易混的点
+
+- OSCP-style 练习奖励耐心。快速乱猜通常比认真 enumeration 更浪费时间。
+- 我应该边做边记笔记，而不是事后忘了关键细节再补。
+- 拿到 shell 不是结束，还需要 proof、privilege escalation、cleanup awareness 和 reporting。
+- privilege escalation 很依赖操作系统基础，Linux 或 Windows 太弱会拖慢整条路线。
+- 挫败感是这条路线的一部分，所以我需要有退一步整理思路的流程，而不是随机敲命令。
+
+## 小检查点
+
+- 我能 enumerate 一个 lab target，并解释每一步为什么要做。
+- 我能保留之后还能看懂的 command log。
+- 我能先不看 walkthrough，独立解决 beginner boxes。
+- 我能为一台 practice machine 写完整报告。
+- 我能复盘一次失败尝试，并找出漏掉的线索。
+
 ## 决策记录
 
 | 问题 | 我的答案 |
