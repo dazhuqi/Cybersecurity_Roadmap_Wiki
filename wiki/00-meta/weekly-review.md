@@ -35,6 +35,26 @@ At the end of each week:
 - Did I open too many resources?
 - What should I stop doing next week?
 
+## What Counts as Progress
+
+Progress is not only finishing pages. It can also be:
+
+- explaining a topic in simpler words
+- fixing a wrong assumption
+- turning a messy lab into a readable writeup
+- deleting a resource that was distracting me
+- noticing the same weak point three times and planning practice for it
+
+If the week felt slow, I should look for evidence before calling it a failure. Sometimes the useful result is simply finding the real blocker.
+
+## Warning Signs
+
+- I opened many tabs but wrote no notes.
+- I watched videos but did no commands or examples.
+- I changed study topics every day.
+- I avoided a confusing topic instead of writing down the exact confusion.
+- I planned a big next week that does not fit my real schedule.
+
 ## Keep / Change / Try
 
 | Category | Notes |
