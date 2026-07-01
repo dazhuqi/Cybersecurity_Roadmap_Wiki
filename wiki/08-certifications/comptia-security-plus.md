@@ -53,6 +53,22 @@ It is broad, so it can help me see the map before choosing a more specific path.
 - Compare MFA, password manager, and least privilege controls.
 - Map common attacks to the security control that reduces the risk.
 
+## Beginner Things I Need to Be Careful About
+
+- Security+ is broad. I should not feel bad if every topic feels shallow at first.
+- Risk is not the same as vulnerability. A vulnerability is a weakness; risk also includes impact and likelihood.
+- Encryption, hashing, and encoding are different. I need examples for each one.
+- Authentication proves identity. Authorization decides what the identity can do.
+- A control is useful only if I can explain what problem it reduces.
+
+## Small Checkpoints
+
+- I can explain the CIA triad with my own examples.
+- I can compare symmetric encryption, asymmetric encryption, hashing, and digital signatures.
+- I can read a simple incident scenario and list first response steps.
+- I can match common attacks to practical controls, not only textbook definitions.
+- I can write a short paragraph explaining why a security control matters to a normal user or business.
+
 ## Decision Notes
 
 | Question | My Answer |
