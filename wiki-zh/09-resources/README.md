@@ -45,6 +45,21 @@
 | 需要安全方法论 | OWASP、NIST、CISA、MITRE、vendor guidance |
 | 需要当前漏洞事实 | CVE/NVD、vendor advisory、CISA KEV、official source |
 
+## Parking Lot 规则
+
+如果某个资源看起来有用，但不支持当前 module，就先放进 parking lot note，而不是立刻打开。
+
+Parking lot 条目：
+
+```text
+Resource:
+Why it looked useful:
+Which module it belongs to:
+When I might use it:
+```
+
+每周复盘时，我应该决定：把它移动到真正的笔记里、继续 parked、或者删除。一个永远不会变成 practice 的资源，大概率只是 noise。
+
 ## 给未来自己的提醒
 
 - 不要添加没有用途说明的资源。
