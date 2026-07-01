@@ -53,6 +53,22 @@ Even if I do not become a network engineer, I need enough networking skill to av
 - Capture traffic and match it to the topology.
 - Write a short explanation of router vs switch without using memorized wording.
 
+## Beginner Things I Need to Be Careful About
+
+- CCNA is not just "Network+ but Cisco." It expects more configuration thinking.
+- I should understand why a command is used, not only paste a working config.
+- VLANs separate broadcast domains. Trunks carry multiple VLANs. Access ports usually belong to one VLAN.
+- Routing tables answer where traffic should go next. They do not magically mean the return path works.
+- Troubleshooting should start from the symptom and evidence, not from deleting the whole lab.
+
+## Small Checkpoints
+
+- I can subnet common private ranges and explain the result.
+- I can configure basic switch access ports, trunk ports, and VLANs in a simulator.
+- I can set up static routing and verify it with show commands.
+- I can explain what ARP is doing when two hosts talk on the same LAN.
+- I can document a small topology so another beginner can rebuild it.
+
 ## Decision Notes
 
 | Question | My Answer |
