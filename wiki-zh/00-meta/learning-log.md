@@ -37,6 +37,34 @@ Related Links:
 
 如果一条记录只写“watched videos”，那不够有用。
 
+## 什么样的记录有用
+
+一条记录有用，是因为它能让我之后重新开始时不用完全靠回忆。
+
+我应该写下：
+
+- 我具体学了什么
+- 哪个细节今天终于明白了
+- 哪个东西我仍然讲不清楚
+- 一个小到真的能做的 next action
+
+日志可以乱一点。它不需要变成 polished blog post。粗糙但诚实的记录，比永远不写的完美记录更有用。
+
+## 小例子
+
+```text
+Date: 2026-07-01
+Topic: DNS lookup basics
+Study Time: 40 minutes
+Roadmap Module: 03 Networking Knowledge
+What I Practiced: Used nslookup and checked A records.
+What I Understood Today: DNS gives an IP address for a name, but it does not create the network connection.
+What Is Still Unclear: Recursive vs authoritative DNS.
+Mistake or Surprise: I forgot cached answers can hide what is really happening.
+Next Step: Draw the DNS request path.
+Related Links: To be filled.
+```
+
 ## 日志
 
 ### YYYY-MM-DD
