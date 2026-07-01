@@ -48,6 +48,22 @@ This reminds me that security is not only "find vulnerability, fix vulnerability
 - Map one security control to business impact.
 - Review the difference between governance, management, and operations.
 
+## Beginner Things I Need to Be Careful About
+
+- CISM is management-heavy. It cares about aligning security with business goals.
+- A manager does not personally fix every technical issue. They make sure ownership, priority, budget, and process are clear.
+- Risk acceptance is not ignoring risk. It should be documented and approved by the right owner.
+- Metrics should help decisions. A chart that looks nice but changes no action is weak.
+- Incident communication is part of security, not an afterthought.
+
+## Small Checkpoints
+
+- I can describe a security program in terms of people, process, technology, and governance.
+- I can write a simple risk statement with asset, threat, vulnerability, impact, and owner.
+- I can explain why security priorities should connect to business priorities.
+- I can draft a basic incident escalation flow.
+- I can compare "doing more security work" with "doing the right security work."
+
 ## Decision Notes
 
 | Question | My Answer |
