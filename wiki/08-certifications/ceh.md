@@ -51,6 +51,22 @@ The most important thing is authorization. Ethical hacking is only ethical insid
 - Turn one solved lab into a short report with findings and fixes.
 - Review basic web vulnerabilities in a safe training environment.
 
+## Beginner Things I Need to Be Careful About
+
+- "Ethical" depends on permission, not intention. I should never test systems without written scope.
+- Tool output is not a finding by itself. I need to verify, understand impact, and write remediation.
+- Scanning, enumeration, exploitation, and reporting are different phases. Mixing them makes my notes messy.
+- A cool exploit is less useful than a repeatable method.
+- Social engineering topics should be studied for awareness and defense, not for messing with real people.
+
+## Small Checkpoints
+
+- I can write a basic scope statement for a lab assessment.
+- I can explain the difference between passive and active reconnaissance.
+- I can run a safe lab scan and summarize the important results.
+- I can turn one vulnerability into a short report section with evidence and fix advice.
+- I can say clearly when I am not authorized to continue.
+
 ## Decision Notes
 
 | Question | My Answer |
