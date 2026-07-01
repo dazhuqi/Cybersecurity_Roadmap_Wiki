@@ -52,6 +52,22 @@ The key word is authorized. Penetration testing only makes sense inside clear pe
 - Practice turning technical proof into remediation advice.
 - Keep a failed-attempts section in every lab note.
 
+## Beginner Things I Need to Be Careful About
+
+- GPEN is about penetration testing methodology, not only getting shells.
+- A test has rules, scope, time limits, evidence, and reporting. Those parts matter.
+- Enumeration usually decides whether exploitation works. Skipping it creates fake progress.
+- Post-exploitation should stay inside scope and should be documented carefully.
+- I should be able to explain risk and remediation, not only the command that worked.
+
+## Small Checkpoints
+
+- I can build a repeatable enumeration checklist for lab machines.
+- I can explain what I tried, what failed, and what I learned.
+- I can safely practice privilege escalation in intentionally vulnerable environments.
+- I can write a short attack path from initial access to impact.
+- I can produce a report that a defender could actually use.
+
 ## Decision Notes
 
 | Question | My Answer |
