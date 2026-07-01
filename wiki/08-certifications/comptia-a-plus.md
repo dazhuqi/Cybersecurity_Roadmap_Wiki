@@ -49,6 +49,22 @@ If I skip these foundations, I may jump to "malware" or "attack" too quickly whe
 - Practice basic file navigation and permissions on Linux.
 - Write one troubleshooting note using the template from the IT skills module.
 
+## Beginner Things I Need to Be Careful About
+
+- Do not memorize hardware names without knowing what job the part does.
+- BIOS/UEFI is firmware. Windows or Linux is the operating system. I should not mix those up.
+- RAM is short-term working memory. Storage keeps data after power is off.
+- Troubleshooting is not guessing faster. It is checking simple causes first, changing one thing at a time, and writing down what happened.
+- Customer support skill matters here. A technically correct answer can still be bad if I explain it in a confusing or impatient way.
+
+## Small Checkpoints
+
+- I can describe the boot process in beginner language.
+- I can explain what CPU, RAM, storage, motherboard, GPU, and PSU do.
+- I can install or update a driver in a lab machine and record what changed.
+- I can read a basic error message and search for the exact wording.
+- I can make a simple backup and restore plan for a personal computer.
+
 ## Decision Notes
 
 | Question | My Answer |
