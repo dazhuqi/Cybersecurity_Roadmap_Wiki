@@ -45,6 +45,21 @@ If I cannot answer these, I am probably avoiding practice by collecting links.
 | I need security methodology | OWASP, NIST, CISA, MITRE, vendor guidance |
 | I need current vulnerability facts | CVE/NVD, vendor advisory, CISA KEV, official source |
 
+## Parking Lot Rule
+
+If a resource looks useful but does not support the current module, put it in a parking lot note instead of opening it right away.
+
+Parking lot entry:
+
+```text
+Resource:
+Why it looked useful:
+Which module it belongs to:
+When I might use it:
+```
+
+At weekly review time, I should either move it into a real note, keep it parked, or delete it. A resource that never becomes practice is probably noise.
+
 ## Notes for Future Me
 
 - Do not add a resource without a note about why it matters.
