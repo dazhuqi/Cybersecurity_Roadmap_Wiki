@@ -53,6 +53,22 @@ The biggest lesson is methodology. I need to learn how to keep moving when the p
 - Practice writing proof steps clearly enough that another person could reproduce them.
 - Time-box rabbit holes and record why I moved on.
 
+## Beginner Things I Need to Be Careful About
+
+- OSCP-style work rewards patience. Fast guessing usually wastes more time than careful enumeration.
+- I should keep notes while working, not after I forget the important details.
+- A shell is not the end. I still need proof, privilege escalation, cleanup awareness, and reporting.
+- Privilege escalation depends on operating system basics. Weak Linux or Windows knowledge will slow everything down.
+- Frustration is part of this path, so I need a process for stepping back instead of randomly trying commands.
+
+## Small Checkpoints
+
+- I can enumerate a lab target and explain why each step matters.
+- I can keep a command log that is readable later.
+- I can solve beginner boxes without watching walkthroughs first.
+- I can write a full report for a practice machine.
+- I can review a failed attempt and identify the missed clue.
+
 ## Decision Notes
 
 | Question | My Answer |
