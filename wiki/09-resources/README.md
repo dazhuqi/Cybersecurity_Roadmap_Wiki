@@ -1,41 +1,62 @@
 # 09 Resources
 
-This directory collects courses, books, tools, websites, and reference material.
-
-This is not meant to become a giant bookmark dump. If I add a resource here, I should know why it is useful, what level it fits, and when I should open it.
-
-## Page Index
-
-- [books.md](books.md)
-- [courses.md](courses.md)
-- [tools.md](tools.md)
-- [websites.md](websites.md)
-- [cheatsheets.md](cheatsheets.md)
-
-## Collection Principles
-
-- Prefer resources that have actually been used.
-- Document the suitable level and use case for each resource.
-- Avoid link dumping, and periodically remove invalid or low-value resources.
-- Prefer official documentation, primary sources, and actively maintained references.
-- Mark resources as "reference", "course", "practice", or "deep reading" so I do not use the wrong material for the wrong task.
-
-## How I Should Use This Section
-
-| Need | Start Here |
+| Field | Value |
 | --- | --- |
-| I need a structured lesson | [courses.md](courses.md) |
-| I need a book-length explanation | [books.md](books.md) |
-| I need a tool for lab work | [tools.md](tools.md) |
-| I need an official reference or knowledge base | [websites.md](websites.md) |
-| I need a quick syntax or concept reminder | [cheatsheets.md](cheatsheets.md) |
+| Status | Reference |
+| Roadmap Area | Resources |
+| Last Reviewed | 2026-07-01 |
 
-## Review Habit
+This directory collects resources that support the roadmap. It should not become a pile of links I never use. Every resource should have a purpose: learn a concept, practice a skill, check a command, compare tools, or find official guidance.
 
-Resources go stale. Once in a while, I should check:
+Beginner version:
 
-- Does the link still work?
-- Is the resource still maintained?
-- Did I actually use it?
-- Is it too advanced for the current stage?
-- Did I write down what I learned from it?
+> Resources are useful only when they help the current study goal.
+
+## Resource Pages
+
+| Page | Use It For | Rule |
+| --- | --- | --- |
+| [books.md](books.md) | Slower, deeper explanations | Pick one book for the current module, not ten at once. |
+| [courses.md](courses.md) | Structured learning paths | Practice after each section. |
+| [tools.md](tools.md) | Tool references and lab utilities | Know the question before using the tool. |
+| [websites.md](websites.md) | Official docs and stable references | Prefer official sources for facts and configuration. |
+| [cheatsheets.md](cheatsheets.md) | Quick syntax reminders | Do not copy commands without understanding them. |
+
+## How I Should Choose a Resource
+
+Before opening a resource, ask:
+
+- Which roadmap module does this support?
+- What question am I trying to answer?
+- Will I practice something after reading?
+- Is this official documentation, a course, a blog, or a personal note?
+- Is the information current enough for this topic?
+
+If I cannot answer these, I am probably avoiding practice by collecting links.
+
+## Resource Priority
+
+| Situation | Best Starting Point |
+| --- | --- |
+| I need exact product behavior | Official documentation |
+| I need a beginner explanation | Course, learning center, or book |
+| I forgot command syntax | Cheatsheet or manual page |
+| I need practice | Lab platform or exercise |
+| I need security methodology | OWASP, NIST, CISA, MITRE, vendor guidance |
+| I need current vulnerability facts | CVE/NVD, vendor advisory, CISA KEV, official source |
+
+## Notes for Future Me
+
+- Do not add a resource without a note about why it matters.
+- Do not start a paid course just because it looks popular.
+- Do not treat tools as skills.
+- Do not trust old security posts without checking dates.
+- Link useful resources from the module page where they are used.
+
+## Review Questions
+
+- Which resource did I actually use this week?
+- Did it lead to practice or just more reading?
+- Did I save the exact page link?
+- Is there a better official source?
+- Should this resource be removed or parked?
