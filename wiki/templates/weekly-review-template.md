@@ -41,6 +41,18 @@
 | Change | To be filled |
 | Try | To be filled |
 
+## Scorecard
+
+This is not for judging myself. It is for noticing patterns.
+
+| Question | Yes / No / Notes |
+| --- | --- |
+| Did I practice hands-on? | To be filled |
+| Did I write or update notes? | To be filled |
+| Did I review older material? | To be filled |
+| Did I avoid a blocker? | To be filled |
+| Did I keep the next step small? | To be filled |
+
 ## Next Week
 
 - [ ] One note:
