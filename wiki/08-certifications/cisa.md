@@ -48,6 +48,22 @@ This is probably not my first certification unless I move toward audit or govern
 - Write a mock audit finding with risk, evidence, and recommendation.
 - Review a framework such as NIST CSF or CIS Controls at a high level.
 
+## Beginner Things I Need to Be Careful About
+
+- CISA is not mainly about hacking. It is about assurance, governance, controls, and evidence.
+- An audit finding needs criteria, condition, cause, effect, and recommendation. I should not only say "this is bad."
+- A control can exist on paper and still fail in practice.
+- Evidence quality matters. Screenshots, logs, policy documents, and interviews all have limits.
+- The goal is not to embarrass a team. The goal is to understand risk and improve the process.
+
+## Small Checkpoints
+
+- I can explain the difference between policy, standard, procedure, and control.
+- I can read a simple control requirement and decide what evidence would prove it.
+- I can write one audit-style observation in a neutral tone.
+- I can connect a technical issue to business risk without exaggerating.
+- I can explain why independence and documentation matter in audit work.
+
 ## Decision Notes
 
 | Question | My Answer |
