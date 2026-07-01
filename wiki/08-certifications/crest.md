@@ -48,6 +48,22 @@ It is not just about "using tools." Professional assessment work requires clean 
 - Build a methodology checklist for reconnaissance, enumeration, exploitation, and reporting.
 - Review sample professional report structures.
 
+## Beginner Things I Need to Be Careful About
+
+- CREST can mean different things depending on region, employer, and specific exam path.
+- I should not treat "CREST" as one single beginner certificate without checking which track is relevant.
+- Professional assessment work is not only exploitation. It includes scoping, evidence, communication, and repeatable quality.
+- Report writing is part of the skill, not just paperwork after the fun part.
+- Before spending money, I should compare requirements against job postings I actually care about.
+
+## Small Checkpoints
+
+- I can identify which CREST pathway matches my target role.
+- I can explain the difference between a lab proof and client-ready evidence.
+- I can write a clean finding with impact, evidence, and remediation.
+- I can compare CREST with OSCP, GPEN, and GWAPT without assuming one is always better.
+- I can list the practical skills I still need before choosing this path.
+
 ## Decision Notes
 
 | Question | My Answer |
