@@ -51,6 +51,22 @@ Even if I do not take it soon, its domains can help me see gaps.
 - Review identity, access control, and data classification examples.
 - Compare security architecture choices, such as segmentation and least privilege.
 
+## Beginner Things I Need to Be Careful About
+
+- CISSP is broad and experience-oriented. I should not treat it as a shortcut into senior security.
+- The "best" answer is often the one that reduces business risk, not the most technical fix.
+- Governance, legal, physical security, software security, and operations all matter here.
+- I should learn to think like someone responsible for a whole security program.
+- If a topic feels boring, that may mean I do not yet see where it appears in real organizations.
+
+## Small Checkpoints
+
+- I can summarize each major security domain in plain language.
+- I can explain why a control exists and what risk it reduces.
+- I can read a scenario and choose a management-level next step.
+- I can connect technical details to policy, ownership, cost, and impact.
+- I can honestly identify which domains I only know as vocabulary.
+
 ## Decision Notes
 
 | Question | My Answer |
