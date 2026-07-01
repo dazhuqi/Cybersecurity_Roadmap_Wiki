@@ -53,6 +53,22 @@ If I am afraid of the terminal, many security labs will feel harder than they ne
 - Configure SSH safely in a lab.
 - Write a small Bash script that checks system information.
 
+## Beginner Things I Need to Be Careful About
+
+- The shell is not magic. It is just a way to send commands to programs.
+- Root can break the system very quickly, so I should understand a command before using `sudo`.
+- File permissions are easier when I think in three groups: owner, group, and others.
+- Services are long-running programs. Logs are often the first place to check when a service behaves strangely.
+- Copying commands from the internet is risky unless I can explain each flag.
+
+## Small Checkpoints
+
+- I can navigate with `pwd`, `ls`, `cd`, `find`, and `grep`.
+- I can explain `rwx` permissions and change them in a lab.
+- I can create users, groups, and a simple shared folder.
+- I can check running processes and service status.
+- I can write a short script that backs up a folder or parses a simple text file.
+
 ## Decision Notes
 
 | Question | My Answer |
