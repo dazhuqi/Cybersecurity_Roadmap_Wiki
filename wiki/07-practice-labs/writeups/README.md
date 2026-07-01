@@ -49,6 +49,26 @@ Example:
 | Full writeup | Important lab | Scope, enumeration, steps, evidence, lessons |
 | Report style | SANS-style or capstone | Executive summary, objective evidence, clear findings |
 
+## Safe Sharing Notes
+
+Before making a writeup public, I should check the platform rules and the lab status. Some platforms allow retired-machine writeups but not active-machine spoilers. Some rooms are fine for public notes, while others ask learners not to publish flags or full solutions.
+
+When in doubt, keep the writeup private or publish a sanitized learning note instead of a step-by-step solution.
+
+Useful public version:
+
+- what skill the lab practiced
+- what I misunderstood at first
+- what general method helped
+- what I would review next
+
+Risky public version:
+
+- exact flags
+- active-machine answers
+- copied exploit output with no explanation
+- credentials, tokens, VPN details, or private screenshots
+
 ## Review Checklist
 
 - [ ] Did I state the scope?
@@ -57,6 +77,16 @@ Example:
 - [ ] Did I include mistakes or dead ends?
 - [ ] Did I link the roadmap topic this lab supports?
 - [ ] Did I mark whether public sharing is allowed?
+
+## How to Review Old Writeups
+
+Old writeups should not just sit here forever. Once in a while, I should reopen one and ask:
+
+- Can I still explain the main idea?
+- Did I over-focus on commands and under-explain reasoning?
+- Is there a related roadmap note I should link?
+- Did I learn a better method later?
+- Should this be promoted from a short note to a full writeup?
 
 ## Index
 
