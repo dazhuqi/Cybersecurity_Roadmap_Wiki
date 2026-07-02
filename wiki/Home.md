@@ -10,8 +10,8 @@ The wiki follows the public [roadmap.sh Cyber Security Roadmap](https://roadmap.
 | --- | --- |
 | Current Stage | Foundation building |
 | Current Module | 01-03 foundations, 05 cloud, 07 labs |
-| Weekly Focus | Keep notes practical and connect them to labs |
-| Next Review Date | To be filled |
+| Weekly Focus | Maintenance review complete; keep notes practical and connect them to labs |
+| Next Review Date | 2026-07-09 |
 
 ## How to Use This Wiki
 
