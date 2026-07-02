@@ -3,7 +3,7 @@
 | Field | Value |
 | --- | --- |
 | Status | Active |
-| Last Reviewed | 2026-07-01 |
+| Last Reviewed | 2026-07-02 |
 | Current Stage | Foundation building |
 
 This page tracks the whole roadmap at a high level. It should not become a guilt list. It is a map for choosing the next small action.
@@ -44,11 +44,11 @@ This page tracks the whole roadmap at a high level. It should not become a guilt
 
 | Item | Value |
 | --- | --- |
-| Main Focus | To be filled |
-| Secondary Focus | To be filled |
-| Lab Goal | To be filled |
-| Review Goal | To be filled |
-| Blocker | To be filled |
+| Main Focus | Review 01-03 foundations without changing scope |
+| Secondary Focus | Keep 05 cloud notes connected to shared responsibility examples |
+| Lab Goal | Create one short sanitized lab record when a lab is completed |
+| Review Goal | Check glossary terms and update one unclear note |
+| Blocker | 04 and 06 are intentionally deferred for now |
 
 ## Evidence Checklist
 
