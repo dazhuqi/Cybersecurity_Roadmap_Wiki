@@ -1,0 +1,46 @@
+name: Lab writeup idea
+description: Track a safe, authorized lab writeup to add later.
+title: "docs(labs): "
+labels:
+  - labs
+body:
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: TryHackMe, Hack The Box, VulnHub, picoCTF, SANS Holiday Hack, local lab, or other.
+      placeholder: TryHackMe
+    validations:
+      required: true
+  - type: input
+    id: lab
+    attributes:
+      label: Lab name
+      placeholder: Lab or room name
+    validations:
+      required: true
+  - type: dropdown
+    id: sharing
+    attributes:
+      label: Sharing status
+      options:
+        - Private notes only
+        - Sanitized public notes allowed
+        - Public writeup allowed
+        - Need to check platform rules
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Learning goal
+      description: What skill should this lab reinforce?
+      placeholder: Practice enumeration, DNS analysis, Linux permissions, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Safety notes
+      description: Mention flags, spoilers, credentials, tokens, or screenshots that must not be committed.
+
