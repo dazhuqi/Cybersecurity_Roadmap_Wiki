@@ -3,7 +3,7 @@
 | 字段 | 值 |
 | --- | --- |
 | 状态 | 使用中 |
-| 最后复习 | 2026-07-01 |
+| 最后复习 | 2026-07-02 |
 | 当前阶段 | 打基础 |
 
 这个页面从高层追踪整条路线图。它不应该变成内疚清单，而应该是选择下一个小行动的地图。
@@ -44,11 +44,11 @@
 
 | 项目 | 值 |
 | --- | --- |
-| Main Focus | To be filled |
-| Secondary Focus | To be filled |
-| Lab Goal | To be filled |
-| Review Goal | To be filled |
-| Blocker | To be filled |
+| Main Focus | 复习 01-03 foundations，不扩大范围 |
+| Secondary Focus | 让 05 cloud notes 继续连接 shared responsibility examples |
+| Lab Goal | 完成 lab 后写一篇短的 sanitized lab record |
+| Review Goal | 检查 glossary terms，并更新一个仍然不清楚的 note |
+| Blocker | 04 和 06 暂时按计划延后 |
 
 ## 证据清单
 
