@@ -1,0 +1,31 @@
+name: Link Check
+
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+      - "scripts/check_local_markdown_links.py"
+      - ".github/workflows/link-check.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+      - "scripts/check_local_markdown_links.py"
+      - ".github/workflows/link-check.yml"
+
+jobs:
+  local-markdown-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Check local Markdown links
+        run: python scripts/check_local_markdown_links.py
+
