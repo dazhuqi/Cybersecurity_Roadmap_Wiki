@@ -1,0 +1,39 @@
+name: Documentation update
+description: Suggest a correction, expansion, or cleanup for an existing note.
+title: "docs: "
+labels:
+  - documentation
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - English
+        - Chinese
+        - Both
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page or folder
+      description: Example: wiki/03-networking-knowledge/osi-and-tcp-ip.md
+      placeholder: wiki/...
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Describe the correction or improvement in plain language.
+      placeholder: The page should explain...
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Add official docs, stable references, or roadmap links if useful.
+      placeholder: https://...
+
