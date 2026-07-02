@@ -1,0 +1,48 @@
+name: Resource suggestion
+description: Suggest a book, course, tool, website, or cheatsheet for the roadmap.
+title: "docs(resources): "
+labels:
+  - resources
+body:
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - Book
+        - Course
+        - Tool
+        - Website
+        - Cheatsheet
+        - Official documentation
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: module
+    attributes:
+      label: Roadmap module
+      description: Example: 03 Networking Knowledge
+      placeholder: 03 Networking Knowledge
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it helps
+      description: Explain what question this resource answers or what practice it supports.
+      placeholder: This helps because...
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Add cost, difficulty, date concerns, or official-source warnings if relevant.
+
