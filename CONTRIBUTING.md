@@ -46,6 +46,30 @@ Each topic page should usually include:
 
 Start from `wiki/templates/topic-template.md` when creating a new topic page.
 
+## Issues and Pull Requests
+
+Use the GitHub issue templates when planning a documentation update, lab writeup, or resource suggestion. A good issue should name the page or roadmap module, explain the learning goal, and include official or stable references when possible.
+
+Pull requests should stay small enough to review:
+
+- One topic page update
+- One translation sync
+- One lab writeup
+- One resource list update
+- One repository maintenance change
+
+Before opening a pull request, check that sensitive lab material is removed and that related English or Chinese pages are kept in sync when needed.
+
+## Local Checks
+
+Run the local Markdown link checker after changing internal links:
+
+```bash
+python scripts/check_local_markdown_links.py
+```
+
+The checker skips external URLs and only validates local files. The currently deferred Chinese `04` and `06` module links are intentionally ignored until those folders are created.
+
 ## File Naming
 
 - Use lowercase English names with hyphens, such as `ip-subnetting.md`.
